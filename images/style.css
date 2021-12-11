@@ -1,0 +1,18 @@
+.parent{
+    display:flex;
+    border: 2px solid aqua;
+
+}
+.card{
+    padding:1%;
+    margin:1%;
+    border:2px solid rgb(247,0,255);
+    width:20%;
+
+}
+img{
+    display:block ;
+    width:200px;
+    border-radius:5%;
+    border:5px solid rgb(17,0,255);
+}
